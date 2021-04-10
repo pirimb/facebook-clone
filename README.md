@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Facebook-clone App with React,Firebase and Material UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
